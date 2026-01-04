@@ -110,3 +110,7 @@ docker-compose restart backend
 - Le backend attend que MySQL soit démarré avant de se lancer (dependency)
 - Le frontend attend que le backend soit démarré
 - Les données MySQL sont persistées dans un volume Docker
+
+## Captures
+<img width="1654" height="1100" alt="image" src="https://github.com/user-attachments/assets/ea3ed19e-e36a-4a70-b8dd-d25249d12306" />
+<img width="892" height="614" alt="image" src="https://github.com/user-attachments/assets/28e12702-05e5-46ac-953b-cb15fd436587" />
